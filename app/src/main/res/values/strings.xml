@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">NoteCash</string>
+    <string name="icon">icon</string>
+    <string name="currency">,-</string>
+    <string name="balance">-100</string>
+    <string name="income">Příjem</string>
+    <string name="expense">Výdaj</string>
 </resources>
